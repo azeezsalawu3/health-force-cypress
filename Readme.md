@@ -24,7 +24,7 @@
 
 - Cypress logs the API request on the side tab during execution and one can see how long it took for the api to respond and I have added the screenshot of how the header is printed on the cypress console
 
-![Alt text](/images/ConsoleHeaderLog.png?raw=true "Log View")
+![Alt text](./Images/ConsoleHeaderLog.png?raw=true "Log View")
 
 ---
 ### For Defect report and testcase please refer to the folder /docs or see below
